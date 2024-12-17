@@ -12,7 +12,7 @@ This repository contains Jupyter Notebooks for **fine-tuning**, **training**, an
 
 - Python >= 3.8
 - Jupyter Notebook
-- PyTorch or TensorFlow (depending on the model used)
+- PyTorch
 
 ## License
 
